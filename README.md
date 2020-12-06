@@ -1,4 +1,4 @@
-# A Python Simulator for Monty Hall Problem
+# A Simulator for Monty Hall Problem
 
 Monty Hall problem is a famous probablity puzzle. Here's the problem :
 
