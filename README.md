@@ -1,1 +1,1 @@
-# monty-hall
+# A Pyton Simulator for Monty Hall Problem
